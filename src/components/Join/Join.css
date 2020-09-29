@@ -30,11 +30,13 @@ body {
   border-radius: 0;
   padding: 15px 20px;
   width: 100%;
+  border-radius: 7px;
+  font-size: 16px;
 }
 
 .heading {
   color: white;
-  font-size: 2.5em;
+  font-size: 3em;
   padding-bottom: 10px;
   border-bottom: 2px solid white;
 }
@@ -49,6 +51,8 @@ body {
   display: inline-block;
   border: none;
   width: 100%;
+  font-weight: 800;
+  font-size: 1em;
 }
 
 .mt-20 {
